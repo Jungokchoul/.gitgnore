@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 B
+=======
+BBBBBBBBBBB
+>>>>>>> 5f48c7986a23759c9442bdcde0d73222c48facb5
